@@ -17,7 +17,7 @@ with open(ver_path) as ver_file:
 setuptools.setup(
     name='keyphrase-vectorizers',
     version=main_ns['__version__'],
-    url='https://github.com/TimSchopf/KeyphraseVectorizers',
+    url='https://github.com/notandreiv/KeyphraseVectorizers',
     license='BSD 3-Clause "New" or "Revised" License',
     author='Tim Schopf',
     author_email='tim.schopf@t-online.de.de',
